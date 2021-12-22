@@ -8,7 +8,7 @@ body{
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
-  backdrop-filter: blur(2px);
+
 }
 .container{
   margin-left: auto;
@@ -75,7 +75,7 @@ a:hover{
   color: lightblue;
 }
 .maps{
-  padding-top: 20px;
+  margin-left: 25%;
 }
 
 footer {
